@@ -1,4 +1,4 @@
-const linesToArray = require('../linesToArray');
+const linesToArray = require('../../linesToArray');
 
 const calc = (value) => Math.floor(value / 3) - 2;
 
